@@ -1,0 +1,20 @@
+.count-container {
+  width: auto
+}
+
+.signout-btn {
+  background-color: white !important;
+  width: 20px;
+  height: 20px;
+}
+
+.count-card {
+  border: 2px solid black !important;
+  border-radius: 10px !important;
+  width: 20%;
+  margin-top: 20%;
+}
+
+.count-btn {
+  width: 30% !important;
+}

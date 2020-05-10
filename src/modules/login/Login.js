@@ -12,13 +12,13 @@ function Login() {
   const dispatch = useDispatch()
 
   return (
-    <div className="container text-center">
-      <Card className="mx-auto">
+    <div className="login-container text-center">
+      <Card className="mx-auto login-card">
         <CardBody>
           <div>To use count apps, click Login button below</div>
           <Button 
             color="primary" 
-            className="mt-4"
+            className="mt-4 login-btn"
             onClick={() => dispatch(login())}
           >
             Login
