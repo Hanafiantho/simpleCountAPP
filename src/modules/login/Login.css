@@ -1,0 +1,14 @@
+.container {
+  width: auto;
+}
+
+.card {
+  border: 2px solid black !important;
+  border-radius: 10px !important;
+  width: 30%;
+  margin-top: 20%;
+}
+
+.btn {
+  width: 35% !important;
+}
